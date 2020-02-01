@@ -44,7 +44,7 @@ public class Dziennik {
 
             return student.obliczSrednia();
         }
-        return OptionalDouble
+
         }
 }
 
