@@ -1,3 +1,5 @@
+package Zad2;
+
 import java.util.*;
 
 public class Main2 {
